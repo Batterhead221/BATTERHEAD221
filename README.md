@@ -29,7 +29,7 @@ A compact synchronous buck converter designed for real-world validation and reus
 - Dedicated test points for all critical nodes  
 
 🔗 **Project repo:**  
-https://github.com/BrandonShelly/LMR51430_12V_to_5V_Buck
+https://github.com/Batterhead221/12V-5V_BUCK.git
 
 ---
 
@@ -42,4 +42,4 @@ https://github.com/BrandonShelly/LMR51430_12V_to_5V_Buck
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/BrandonShelly
+- GitHub: https://github.com/Batterhead221
