@@ -11,7 +11,7 @@ My recent projects include custom embedded development boards built around moder
 
 ## 🔧 CORE SKILLS
 
-- PCB design and layout in KiCad
+- PCB design and layout
 - Embedded hardware development
 - Microcontroller support circuitry
 - Power electronics, including buck converters and LDOs
