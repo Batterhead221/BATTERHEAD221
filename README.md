@@ -5,7 +5,7 @@ I design, lay out, assemble, and bring up embedded hardware with a focus on **po
 
 With over 8 years of hands-on electronics experience, including work in aerospace and defense-adjacent environments, I’ve developed a detail-driven approach to hardware that emphasizes **clean power-up behavior, thoughtful layout, DFM-aware execution, and efficient bring-up**.
 
-My recent projects include custom embedded development boards built around modern microcontrollers, with emphasis on **USB, power regulation, programming and debug access, signal integrity, and testability**.
+My recent projects include custom embedded development boards built around modern microcontrollers, with emphasis on **USB, power regulation, program/debug access, signal integrity, and testability**.
 
 ---
 
